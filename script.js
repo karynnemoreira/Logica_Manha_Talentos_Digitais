@@ -144,7 +144,7 @@
 // // // == verificação de valor
 
 // // == verificação de valor (Verifica se o 2 é o mesmo)
-// console.log(numero == 2)// retournou true pq o valor 2 é 2. 
+// console.log(numero == 2)// retornou true pq o valor 2 é 2. 
 // console.log(numero == 4) //retornou false pq o valor NÃO é 2.
 // console.log(numero == 5) //O valor 5 é o mesmo, por isso deu true.
 
